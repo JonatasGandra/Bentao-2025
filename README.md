@@ -1,1 +1,1 @@
-# Repositório do tecnico de 2025
+# Repositório do técnico de 2025
