@@ -1,9 +1,9 @@
 # o que tem um objeto:
 ---
 * caracteristicas:
-** email
- * nome
-* * rm...
+* *email
+* *nome
+* *rm...
 
 * atributos  
 * propiedades
