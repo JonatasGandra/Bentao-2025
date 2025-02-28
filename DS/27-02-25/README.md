@@ -1,12 +1,21 @@
 # INTRODUÇAO A JAVA
 
-## Classe def.:
+## Classe:
 
-> Uma classe define um **tipo** de objeto. Ela define os seguintes dados:
+> Uma classe define um **tipo** de objeto. Ela pode determinar os seguintes dados:
 - Atributos:
-  - `int rm;
-      private String nome;
+  - `int rm;\
+      private String nome;\\
       String email;`
 
 - Construtores:
-  - ijdweih
+  - `public Aluno(int rm, String nome, String email) {\
+        this.rm = rm;\
+        this.nome = nome;\
+        this.email = email;\
+    }`
+
+- Métodos:
+  - `public void setNome(String nome) {\
+        this.nome = nome.toUpperCase();\
+    }`
