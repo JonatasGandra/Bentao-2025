@@ -1,6 +1,7 @@
 // esta é uma classe de objeto
 public class Aluno {
 
+    //atributos
     int rm;
     private String nome;
     String email;

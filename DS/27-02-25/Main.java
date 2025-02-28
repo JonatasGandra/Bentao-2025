@@ -11,6 +11,9 @@ public class Main {
 
         System.out.println(aluno1.rm);
         System.out.println(aluno1.getNome());
+        System.out.println(aluno2.email);
+        
+
     }
 
 }

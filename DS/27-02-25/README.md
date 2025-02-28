@@ -1,13 +1,12 @@
-# o que tem um objeto:
+# INTRODUÇAO A JAVA
 
-* caracteristicas:
+## Classe def.:
 
-* * email
-* * nome
-* * rm...
+> Uma classe define um **tipo** de objeto. Ela define os seguintes dados:
+- Atributos:
+  - `int rm;
+      private String nome;
+      String email;`
 
-* atributos  
-* propiedades
-* métodos
-* funções construtores
-* métodos de funcionalidades
+- Construtores:
+  - ijdweih
