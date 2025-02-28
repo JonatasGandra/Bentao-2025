@@ -1,1 +1,2 @@
-# Repositório do técnico de 2025
+# Repositório ETEC Bento Quirino.
+## 2025
