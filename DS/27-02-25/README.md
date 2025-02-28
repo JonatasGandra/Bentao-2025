@@ -4,9 +4,9 @@
 
 > Uma classe define um **tipo** de objeto. Ela pode determinar os seguintes dados:
 - Atributos:
-  - `int rm;`
-    `private String nome;`
-    `String email;`
+  - `int rm;`<br>
+    `private String nome;` \
+    `String email;` 
 
 - Construtores:
   - `public Aluno(int rm, String nome, String email) {<br>
