@@ -1,8 +1,8 @@
 # INTRODUÇÃO AO JAVA
 
 ## Classe:
----
-> Uma classe define um **tipo** de objeto. Ela pode determinar os seguintes dados:
+
+> ### Uma classe define um **tipo** de objeto. Ela pode determinar os seguintes dados:
 
 - ### Atributos:
   - `int rm;`\
