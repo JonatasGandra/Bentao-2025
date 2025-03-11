@@ -1,4 +1,4 @@
-package DS.encapsulamento;
+package DS.Encapsulamento;
 
 public class Professor {
 
