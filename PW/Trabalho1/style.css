@@ -51,7 +51,7 @@ header a {
     text-decoration: none;
     display: inline-block;
     transition: .1s;
-    font-size: 1.3rem;
+    font-size: 1.5rem;
     color: antiquewhite;
     font-weight: 500;
 }
@@ -104,7 +104,15 @@ aside {
 footer {
     flex: 1 1 100vw;
     height: 100px;
+    justify-content: center;
+    align-items: center;
 }
+footer h1{
+    font-size: 1.5rem;
+    color: aliceblue;
+    font-weight: 500;
+}
+
 
 @media only screen and (max-width: 923px) {
     main {
