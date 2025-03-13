@@ -21,6 +21,7 @@ main{
 }
 main h1{
     font-size: 20px;
+    color: rgba(35, 40, 53, 1);
 }
 footer {
     display: flex;
@@ -35,4 +36,7 @@ footer h1{
     font-size: 1.5rem;
     color: aliceblue;
     font-weight: 500;
+}
+span{
+    color: rgb(79, 98, 114);
 }
