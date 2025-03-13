@@ -1,0 +1,38 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: coolvetica;
+
+}
+
+body {
+    display: flex;
+    margin: 3px;
+    flex: 1 1 100vw;
+    flex-wrap: wrap;
+    background-color: rgba(167, 219, 215, 1);
+    align-items: center;
+    text-align: left;
+    height: 100vh;
+}
+main{
+    margin-left: 50px;
+}
+main h1{
+    font-size: 20px;
+}
+footer {
+    display: flex;
+    flex: 1 1 100vw;
+    height: 100px;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(35, 40, 53, 1);
+    
+}
+footer h1{
+    font-size: 1.5rem;
+    color: aliceblue;
+    font-weight: 500;
+}
