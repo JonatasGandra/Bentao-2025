@@ -7,8 +7,7 @@
 }
 
 body {
-    display: flex;
-    margin: 3px;
+    display: flex;  
     flex: 1 1 100vw;
     flex-wrap: wrap;
     background-color: rgba(167, 219, 215, 1);
@@ -39,4 +38,67 @@ footer h1{
 }
 span{
     color: rgb(79, 98, 114);
+}
+header {
+    flex: 1 1 100vw;
+    height: 100px;
+    align-items: center;
+    background-color: rgba(35, 40, 53, 1) ;
+}
+
+.interface {
+    padding: 2rem;
+    width: 100%;
+}
+
+header .pages {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+header>.interface {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+header a {
+    text-decoration: none;
+    display: inline-block;
+    transition: .1s;
+    font-size: 1.5rem;
+    color: antiquewhite;
+    font-weight: 500;
+}
+
+header a:hover {
+    color: rgba(167, 219, 215, 1);
+    transform: scale(1.05);
+}
+
+header .pages ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+}
+
+header .pages ul li {
+    display: inline-block;
+    padding: 0 2rem;
+
+}
+
+
+header .logo a img {
+    width: 75px;
+    height: auto;
+    padding: 0;
+
+
+}
+
+
+header .login {
+    padding: 0 2rem;
 }

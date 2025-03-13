@@ -8,7 +8,6 @@
 
 body {
     display: flex;
-    margin: 3px;
     flex: 1 1 100vw;
     flex-wrap: wrap;
     background-color: rgba(167, 219, 215, 1);

@@ -21,7 +21,7 @@ user.addEventListener('focus', function() {
   
 
 function fazerLogin() {
-    if (user.value == 'jonatas' && senha.value == 'jonatasmusica') {
+    if (user.value == 'arrudaleo' && senha.value == 'leolindo') {
         window.location.href = 'file:///C:/Users/jonat/Documents/MeusProjetos2025/Bentao-2025/PW/Trabalho1/main/index..html';
 
     } else {
