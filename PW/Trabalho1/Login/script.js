@@ -24,7 +24,7 @@ user.addEventListener('focus', function() {
 
 function fazerLogin() {
     if (user.value == 'jotinha' && senha.value == 'jonataspw') {
-        window.location.href = 'file:///C:/Users/jonat/Documents/MeusProjetos2025/Bentao-2025/PW/Trabalho1/main/index..html';
+        window.location.href = '../main/index.html';
 
     } else {
         erroLogin.innerHTML = 'preencha os campos corretamente';
