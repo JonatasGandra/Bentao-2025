@@ -20,6 +20,9 @@ main {
     display: flex;
     margin: 3px;
     height: calc(100% - 106px);
+    width: 100vw;
+    align-items: center;
+    justify-content: center;
 }
 
 footer {
@@ -85,7 +88,6 @@ header .pages ul {
 header .pages ul li {
     display: inline-block;
     padding: 0 2rem;
-
 }
 
 
@@ -93,8 +95,6 @@ header .logo a img {
     width: 75px;
     height: auto;
     padding: 0;
-
-
 }
 
 header .login {

@@ -3,6 +3,8 @@ const senha = document.querySelector('#senha')
 const erroLogin = document.querySelector('#erro')
 const login = document.querySelector('#login')
 
+window.alert('o usuario é jotinha e a senha é jonataspw')
+
 login.addEventListener('click', fazerLogin)
 
 user.addEventListener('focus', function() {
@@ -21,7 +23,7 @@ user.addEventListener('focus', function() {
   
 
 function fazerLogin() {
-    if (user.value == 'arrudaleo' && senha.value == 'leolindo') {
+    if (user.value == 'jotinha' && senha.value == 'jonataspw') {
         window.location.href = 'file:///C:/Users/jonat/Documents/MeusProjetos2025/Bentao-2025/PW/Trabalho1/main/index..html';
 
     } else {
